@@ -741,7 +741,7 @@
   }
 
   .section6 h1 {
-    font-size: 20px;
+    font-size: 22px;
     padding-top: 2rem;
   }
 
@@ -768,7 +768,7 @@
 
   .card-title {
     margin-left: 2%;
-    font-size: 16px;
+    font-size: 19px;
     padding-top: 0rem;
   }
 
@@ -1365,3 +1365,14 @@ p a:hover {
   padding: 10px;
   border-radius: 4px;
 }
+
+@media screen and (max-width: 500px) { 
+  #myBtn {
+    right: 20px;
+    bottom: 17px;
+  }
+}
+  
+  
+  
+  
